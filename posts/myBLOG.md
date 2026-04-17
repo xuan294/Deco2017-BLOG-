@@ -1,7 +1,7 @@
 ---
 title: Defining Functional Requirements for an Image Sharing Community Hub
 date: 2026-03-20
-author: Your Name
+author: xuan
 summary: Analyze the target users, core tasks, and MVP feature requirements of the image sharing community website, and explain the reasons behind the priority of the features
 tags:
   - A1

@@ -24,9 +24,9 @@ flowchart LR
     User([User]) -->|Uploads Image| UploadForm[Upload Form]
     
     subgraph Server-Side Processing
-        UploadForm -->|Raw File (e.g. 5MB)| Backend[MojoJS Route]
+        UploadForm -->|Raw File, e.g. 5MB| Backend[MojoJS Route]
         Backend -->|Process| Resizer[Image Resizer]
-        Resizer -->|Web-Optimized (e.g. 200KB)| Storage[(File System)]
+        Resizer -->|Web-Optimized, e.g. 200KB| Storage[(File System)]
     end
     
     Storage -->|Lazy Load on Scroll| Browser[Home Feed]

@@ -1,7 +1,7 @@
 ---
 title: Planning for Performance, Accessibility, and Quality Assurance
 date: 2026-04-10
-author: xuan
+author: Xiaoxian Lin
 summary: Outlines the strategies for meeting the AA accessibility standards and strict page load time constraints, focusing on image handling and semantic HTML.
 tags:
   - A1

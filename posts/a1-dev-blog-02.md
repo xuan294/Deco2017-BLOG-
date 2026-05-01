@@ -1,7 +1,7 @@
 ---
 title: Planning Structure, Constraints, and Feasibility for the Prototype
 date: 2026-03-27
-author: xuan
+author: Xiaoxuan Lin
 summary: Uses site structure, user flow, and data modelling to evaluate the implementation path of an image sharing community website and assess the feasibility of its MVP within the course constraints.
 tags:
   - A1

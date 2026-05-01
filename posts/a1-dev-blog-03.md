@@ -1,7 +1,7 @@
 ---
 title: Designing the User Interface and Interaction Patterns
 date: 2026-04-03
-author: xuan
+author: Xiaoxuan Lin
 summary: Discusses the wireframing of key screens and the decision to use HTMX for interaction patterns to balance a smooth user experience with performance constraints.
 tags:
   - A1

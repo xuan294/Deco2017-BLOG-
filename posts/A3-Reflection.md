@@ -21,7 +21,7 @@ To assess the actual performance of the application, I uploaded the prototype to
 
 To collect objective evidence, I used Google Chrome's Lighthouse audits for the deployed home page and meetup creation page.
 
-![Lighthouse Score](/assets/lighthouse_report.png)
+![Lighthouse Score](assets/lighthouse_report.png)
 > **Evidence 1:** Lighthouse performance audit showing scores for Performance (100), Accessibility (95), Best Practices (100), and SEO (90).
 
 **What Performs Well**
@@ -36,14 +36,14 @@ However, there was an issue with image handling when it was deployed. In order t
 
 If users are not able to perform their tasks easily, then a technically fast application becomes useless. I evaluated some of the core user flows—browsing meetups, creating a plan, and joining events.
 
-![Mobile View](/assets/test1-moblie.png)
-![Create Meetup Validation](/assets/test2-blank-restaurant-name.png)
+![Mobile View](assets/test1-moblie.png)
+![Create Meetup Validation](assets/test2-blank-restaurant-name.png)
 > **Evidence 2:** Screenshots demonstrating the responsive design of the meetup cards on a mobile viewport and clear form validation states.
 
 **Navigation and Interaction Flow**
 The flow of interaction is simple. “Create Meetup” stands out in the home feed, and the detail page is structured so that meetup information is separated from participants, and “Join” or “Leave” are easy to see. HTMX filtering enhances user experience by real-time updating of the feed as the user experiments with different filters, fostering engagement and exploration.
 
-![Filter Interaction](/assets/test3-apply-filter.png)
+![Filter Interaction](assets/test3-apply-filter.png)
 > **Evidence 3:** The filter panel allowing users to refine the meetup feed smoothly using HTMX.
 
 **Usability and Feedback**

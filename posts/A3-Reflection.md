@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on TableTogether: Performance, Usability, and Lessons Learned"
 date: 2026-06-05
-author: xuan
+author: xiaoxuan Lin
 summary: "A critical evaluation of the TableTogether prototype, assessing its performance on a live deployment, evaluating user experience and accessibility, and reflecting on the original functional requirements from A1."
 tags:
   - A3
